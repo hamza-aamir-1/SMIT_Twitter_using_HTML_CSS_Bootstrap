@@ -1,0 +1,21 @@
+/* Left */
+.left-nav-icon{
+    width: 30px;
+}
+.left-nav-link{
+    color: black;
+    transition-duration: 0.4s;
+}
+.left-nav-link:hover{
+    color: #0D6EFD;
+}
+.tweet-btn{
+    border-radius: 100px !important;
+}
+.left-account-img{
+    width: 50px;
+}
+.left-account-name{
+    font-size: 18px;
+}
+/* Left */

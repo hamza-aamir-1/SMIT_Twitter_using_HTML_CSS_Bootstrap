@@ -42,6 +42,13 @@
 .tweet-post-img{
     border-radius: 15px;
 }
+.tweet-post{
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.tweet-post:hover{
+    background-color: #F4F8FB;
+}
 /* Main */
 
 /* Right */
@@ -54,5 +61,12 @@
     box-shadow: none;
     outline: none;
     background-color: #E7ECF0;
+}
+.right-trends{
+    background-color: #F4F8FB;
+    border-radius: 15px;
+}
+.trends-border{
+    border-top: 1px solid silver;
 }
 /* Right */

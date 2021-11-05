@@ -10,12 +10,36 @@
     color: #0D6EFD;
 }
 .tweet-btn{
-    border-radius: 100px !important;
-}
-.left-account-img{
-    width: 50px;
+    border-radius: 100px;
 }
 .left-account-name{
-    font-size: 18px;
+    font-size: 17px;
 }
 /* Left */
+
+/* Main */
+.main-home{
+    border: 1px solid silver;
+}
+.main-dp{
+    width: 50px;
+}
+.main-search{
+    border: none;
+    font-size: 20px;
+}
+.main-search::placeholder{
+    font-size: 20px;
+    color: gray;
+}
+.main-search:focus{
+    outline: none;
+    box-shadow: none;
+}
+.main-tweet-icons{
+    font-size: 18px;
+}
+.tweet-post-img{
+    border-radius: 15px;
+}
+/* Main */
